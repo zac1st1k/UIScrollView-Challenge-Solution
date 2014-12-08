@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface XZZViewController : UIViewController
+@interface XZZViewController : UIViewController <UIScrollViewDelegate>
 
 @property (strong, nonatomic) IBOutlet UIScrollView *scrollView;
 @property (strong, nonatomic) UIImageView *globalImageView;
