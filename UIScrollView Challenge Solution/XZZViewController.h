@@ -10,4 +10,6 @@
 
 @interface XZZViewController : UIViewController
 
+@property (strong, nonatomic) IBOutlet UIScrollView *scrollView;
+
 @end
