@@ -22,6 +22,7 @@
 		114BC43E1A35361B00DD9AA0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 114BC41D1A35361B00DD9AA0 /* UIKit.framework */; };
 		114BC4461A35361B00DD9AA0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 114BC4441A35361B00DD9AA0 /* InfoPlist.strings */; };
 		114BC4481A35361B00DD9AA0 /* UIScrollView_Challenge_SolutionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 114BC4471A35361B00DD9AA0 /* UIScrollView_Challenge_SolutionTests.m */; };
+		114BC4521A35371300DD9AA0 /* worldMap.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 114BC4511A35371300DD9AA0 /* worldMap.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		114BC4431A35361B00DD9AA0 /* UIScrollView Challenge SolutionTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UIScrollView Challenge SolutionTests-Info.plist"; sourceTree = "<group>"; };
 		114BC4451A35361B00DD9AA0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		114BC4471A35361B00DD9AA0 /* UIScrollView_Challenge_SolutionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIScrollView_Challenge_SolutionTests.m; sourceTree = "<group>"; };
+		114BC4511A35371300DD9AA0 /* worldMap.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = worldMap.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 		114BC4201A35361B00DD9AA0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				114BC4511A35371300DD9AA0 /* worldMap.jpeg */,
 				114BC4211A35361B00DD9AA0 /* UIScrollView Challenge Solution-Info.plist */,
 				114BC4221A35361B00DD9AA0 /* InfoPlist.strings */,
 				114BC4251A35361B00DD9AA0 /* main.m */,
@@ -235,6 +238,7 @@
 				114BC4301A35361B00DD9AA0 /* Main_iPad.storyboard in Resources */,
 				114BC4351A35361B00DD9AA0 /* Images.xcassets in Resources */,
 				114BC42D1A35361B00DD9AA0 /* Main_iPhone.storyboard in Resources */,
+				114BC4521A35371300DD9AA0 /* worldMap.jpeg in Resources */,
 				114BC4241A35361B00DD9AA0 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
