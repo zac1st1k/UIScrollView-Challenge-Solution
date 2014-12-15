@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1D469782-7B03-4BD4-86A6-B758CDB19888</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UIScrollView Challenge Solution</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9E04FB86-0A9C-4EAB-81F1-9A76528B384B</key>
+		<string>https://github.com/zac1st1k/UIScrollView-Challenge-Solution.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UIScrollView Challenge Solution.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9E04FB86-0A9C-4EAB-81F1-9A76528B384B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zac1st1k/UIScrollView-Challenge-Solution.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9E04FB86-0A9C-4EAB-81F1-9A76528B384B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9E04FB86-0A9C-4EAB-81F1-9A76528B384B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UIScrollView Challenge Solution</string>
+		</dict>
+	</array>
+</dict>
+</plist>
